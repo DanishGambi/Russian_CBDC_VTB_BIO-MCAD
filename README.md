@@ -4,7 +4,8 @@
 
 ## 1. Project Overview  
 The Digital Ruble system provides a unified architecture for processing local and global transactions involving the Central Bank of Russia's Digital Ruble. This system integrates electronic money accounts from commercial banks while supporting three client interfaces: web application, mobile application, and NFC-based physical tokens (NFT Tokens). The architecture is designed to serve approximately 115-120 million accounts with a peak throughput capacity of 40 million transactions per hour.
-*This project was developed as part of the ARCHI.TECH hacathon. The requirements for our solution can be found on the event website [here](https://architechhack.vtb.ru/track2).*
+
+(*This project was developed as part of the ARCHI.TECH hacathon. The requirements for our solution can be found on the event website [here](https://architechhack.vtb.ru/track2).*)
 
 ## 2. Team Composition  
 | Role | Member |
